@@ -1,7 +1,7 @@
 {
   "name": "curso-node",
   "version": "1.0.0",
-  "type": "commonjs",
+  "type": "module",
   "description": "curso de nodejs",
   "main": "src/app.js",
   "scripts": {
